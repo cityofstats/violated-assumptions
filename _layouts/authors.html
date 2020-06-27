@@ -15,7 +15,7 @@ published: true
 
 <div class="wrapper">
   {% for post in page.posts %}
-  {% if post.posts == site.authors[page.author] %}
+  {% if post.posts == page.author %}
    <h1>Blog posts spange by {{ post.author }} </h1>
 <ul class='post-list'>
 

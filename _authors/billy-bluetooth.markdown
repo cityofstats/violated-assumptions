@@ -18,6 +18,6 @@ In addition to his jabra talk 30, Bluetooth has also invested in some other blue
 
 
 Click on the picture to see a fairly recent picture of Bluetooth, taken shortly before he began his graduate studies.
-<a href="http://demetripapakostas.com/pics/mitch.png" data-lightbox="falcon9-medium" data-title="Demetri Circa 2018">
-  <img src="http://demetripapakostas.com/img/frontpic.jpg" title="Demetri circa 2018">
+<a href="{{ site.baseurl }}assets/wowpic.jpg" data-lightbox="falcon9-medium" data-title="Change Later">
+  <img src="{{ site.baseurl }}assets/wowpic.jpg" title="Change Later">
 </a>

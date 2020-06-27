@@ -1,3 +1,8 @@
+---
+layout: authors
+date: '2020-05-14T8:30:00 +0000'
+author: Holly Shoeshine
+---
 <img src="{{ site.baseurl }}assets/tex.jpg" title="Latex" class="profile">
 $$\TeX_2$$ hard is my alias when it comes to playing smash and writing up latex reports.  Here are some of the most essential and favorite Latex packages.  
 > We loved with a love that was more than love

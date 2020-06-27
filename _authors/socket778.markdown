@@ -3,7 +3,7 @@ title: socket778
 published: true
 layout: authors
 date: '2020-05-14T8:30:00 +0000'
-author: Demetrios Papakostas
+author: socket778
 ---
 
 Socket778 is   Replace this with a bio, or fun facts, or research.  Template:

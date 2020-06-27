@@ -9,10 +9,9 @@ exclude:
 # Site settings
 title: Violated Assumptions
 subtitle: "Come for the math, stay for the ?"
-email: #demetrip12345@gmail.com
+#email: #demetrip12345@gmail.com
 name: Math, Stats, and Baking Bloggers
-description: > 
-  Think of something to write here.
+description:  Think of something to write here.
 baseurl: "/violated-assumptions/" # the subpath of your site, e.g. /blog/
 url: "https://cityofstats.github.io" # the base hostname & protocol for your site
 cover: "assets/wowpic.jpg" #"assets/header_image.jpg"

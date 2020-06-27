@@ -10,7 +10,7 @@ exclude:
 title: Violated Assumptions
 subtitle: "Come for the math, stay for the ?"
 email: demetrip12345@gmail.com
-name: Demetrios Papakostas
+name: Math, Stats, and Baking Bloggers
 description: > 
   Think of something to write here.
 baseurl: "/violated-assumptions/" # the subpath of your site, e.g. /blog/
@@ -82,7 +82,7 @@ social:
   - name: Twitter
     icon: twitter
     username: dpapakos
-    url: #https://twitter.com/TheBenCentra
+    url: https://twitter.com/TheBenCentra
     desc: Twitter gone
     share: false
 
@@ -95,7 +95,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: demetrios1
+    username: cityofstats
     url: #https://github.com/demetrios1
     desc: Fork me on GitHub
     share: false
@@ -104,14 +104,14 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Demetrios Papakostas
-    url: https//www.linkedin.com/in/demetrios-papakostas-449b05ba/
+    url: #https//www.linkedin.com/in/demetrios-papakostas-449b05ba/
     desc: Connect with me on LinkedIn
     share: true
   
   - name: Reddit
     icon: reddit
     username: tex2hard
-    url: https://www.reddit.com/user/tex2hard/
+    url: #https://www.reddit.com/user/tex2hard/
     desc: Reddit account
     share: true
   
@@ -160,7 +160,7 @@ social:
   - name: Steam
     icon: steam
     username: 
-    url: 
+    url: https://steamcommunity.com/profiles/76561199060745668/
     desc: Friend me on Steam
     share: false
 

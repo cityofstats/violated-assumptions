@@ -14,7 +14,7 @@ name: Demetrios Papakostas
 description: > 
   Think of something to write here.
 baseurl: "/violated-assumptions/" # the subpath of your site, e.g. /blog/
-url: "https://demetrios1.github.io" # the base hostname & protocol for your site
+url: "https://cityofstats.github.io" # the base hostname & protocol for your site
 cover: "assets/wowpic.jpg" #"assets/header_image.jpg"
 logo: "assets/logo2.jpg" #"assets/logo.png"
 
@@ -36,7 +36,7 @@ future: true
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: cityofstats
 
 collections: #for the author pages
   authors:

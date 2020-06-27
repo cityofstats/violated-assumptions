@@ -24,9 +24,10 @@ published: true
 <div class="wrapper">
   {% for post in site.posts %}
   {% if post.posts == site.author %}
+   <h1>Posts by {{ post.author }} </h1>
 <ul class='post-list'>
 
-   <h1>Posts by {{ post.author }} </h1>
+  
   <li>
     
     <h2>

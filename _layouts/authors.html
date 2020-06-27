@@ -14,7 +14,7 @@ published: true
   <h1>List of author's posts</h1>
 <ul>
 {% for p in site.posts do %}
-  {% if p.posts == post.author %}
+  {% if p.posts == post.title %}
     <li><a href="{{ p.url | remove_first: '/' | prepend: site.baseurl }}">{{ p.title }}</a></li>
   {% endif %}
 {% endfor %}

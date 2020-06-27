@@ -13,7 +13,7 @@ This is the index page for the authors.
 <div class="wrapper">
 <ul class="post-list">
   {% for author in site.authors %}
-    <li><a class="post-link" href="{{ author.url | remove_first: '/' | prepend: site.baseurl }}">{{ author.title }}</a></li>
+    <li><a class="post-link" href="{{ author.url | remove_first: '/' | prepend: site.baseurl }}">{{ author.title }}</a></li><hr>
   {% endfor %}
 </ul>  
 </div>

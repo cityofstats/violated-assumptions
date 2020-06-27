@@ -4,7 +4,7 @@ published: true
 layout: authors
 headline: Zebras are the best!
 date: '2020-05-14T8:30:00 +0000'
-author: Demetrios Papakostas
+author: Billy Bluetooth
 ---
 ### Biography
 Billy Bluetooth hails from the northeast corridor of the United States.  He is currently a PhD student at Arizona State University studying statistics, and is nearly 2 years through.  

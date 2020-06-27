@@ -22,9 +22,10 @@ published: true
 
 <h1> List of author's dem posts </h1>
 <div class="wrapper">
-<ul class='post-list'>
-{% for post in site.posts %}
+  {% for post in site.posts %}
   {% if post.posts == site.author %}
+<ul class='post-list'>
+
    <h1>Posts by {{ post.author }} </h1>
   <li>
     
@@ -50,7 +51,8 @@ published: true
   {% if forloop.last == false %}
   <hr>
   {% endif %}
-{% endif %}
-  {% endfor %}
+
 </ul >
+  {% endif %}
+  {% endfor %}
 </div>

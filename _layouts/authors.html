@@ -11,16 +11,8 @@ published: true
 
 <div class="bio">{{ page.content }}</div>
 
-  <h1>List of author's posts</h1>
-<ul>
-{% for p in site.posts do %}
-  {% if p.posts == post.author %}
-    <li><a href="{{ p.url | remove_first: '/' | prepend: site.baseurl }}">{{ p.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
 
-<h1> List of author's dem posts </h1>
+
 <div class="wrapper">
   {% for post in site.posts %}
   {% if post.posts == site.author %}

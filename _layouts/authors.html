@@ -24,7 +24,7 @@ published: true
 <div class="wrapper">
 <ul class='post-list'>
 {% for post in site.posts %}
-  {% if post.posts == posts.author %}
+  {% if post.posts == site.author %}
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">{{ post.title }}</a>

@@ -84,7 +84,7 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Twitter gone
-    share: false
+    share: true
 
   - name: Facebook
     icon: facebook
@@ -106,14 +106,14 @@ social:
     username: Demetrios Papakostas
     url: #https//www.linkedin.com/in/demetrios-papakostas-449b05ba/
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
   
   - name: Reddit
     icon: reddit
     username: tex2hard
     url: #https://www.reddit.com/user/tex2hard/
     desc: Reddit account
-    share: true
+    share: false
   
   - name: Google+
     icon: google-plus
@@ -127,7 +127,7 @@ social:
     username: 
     url: 
     desc: Subscribe on YouTube
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
@@ -148,7 +148,7 @@ social:
     username: 
     url: 
     desc: Follow me on SoundCloud
-    share: true
+    share: false
 
   - name: Tumblr
     icon: tumblr
@@ -162,7 +162,7 @@ social:
     username: 
     url: https://steamcommunity.com/profiles/76561199060745668/
     desc: Friend me on Steam
-    share: false
+    share: true
 
   - name: Dribbble
     icon: dribbble

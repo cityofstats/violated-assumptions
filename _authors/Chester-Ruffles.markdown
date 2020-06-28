@@ -6,7 +6,7 @@ published: true
 ---
 
 <a href="{{ site.baseurl }}assets/skyscrape.png" data-lightbox="falcon9-medium" data-title="City of Stats">
-  <img src="{{ site.baseurl }}assets/skyscrape.png" title="City of Stats">
+  <img src="{{ site.baseurl }}assets/skyscrape.png" title="City of Stats"></a>
 Chester Ruffles is another blog writer, specializing in:
 > We loved with a love that was more than love
 

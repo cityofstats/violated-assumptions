@@ -15,3 +15,8 @@ Hello, friends.  Today, we will take a deep dive into the world of statistical s
 
 > We loved with a love that was more than love
 
+<a href="{{ site.baseurl }}assets/wowpic.jpg" data-lightbox="falcon9-medium" data-title="Change Later">
+  <img src="{{ site.baseurl }}assets/wowpic.jpg" title="Change Later">
+</a>
+
+

@@ -11,4 +11,7 @@ cover: assets/wowpic.jpg
 
 Hello, friends.  Today, we will take a deep dive into the world of statistical softwares.  Software has become a necessity for statisticians, and 
 
-##The Free and Open Source
+## The Free and Open Source
+
+> We loved with a love that was more than love
+

@@ -8,3 +8,7 @@ tags: stats
 cover: assets/wowpic.jpg
 ---
 ## Examining Different Statistical Softwares
+
+Hello, friends.  Today, we will take a deep dive into the world of statistical softwares.  Software has become a necessity for statisticians, and 
+
+##The Free and Open Source

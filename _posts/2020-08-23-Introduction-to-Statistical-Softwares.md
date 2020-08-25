@@ -44,7 +44,7 @@ This is a tough one.  Excel obviously has its limitations: its slow, its clunky,
 But, as a statistician, the most important thing is reproducibility.  To use some excel plugins, you need to watch a video and mimic what they did.  With a scripting language like python, you just copy written code and run. The code is written in English and is often commented so you know what is going on.  If you edit data in R or python, you leave a paper trail of exactly what you did, whereas in Excel there is no evidence.  Given the importance of data ethics, this is very dangerous.  
 
 Also, excel costs money.  You pay for it alongside word and powerpoint with the microsoft package, so that breaks the cardinal rule of the VA: "If it's free, it's for me".
-![]({{site.baseurl}}/https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F86%2FMicrosoft_Excel_2013_logo.svg%2F1200px-Microsoft_Excel_2013_logo.svg.png&f=1&nofb=1)
+<img>https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F86%2FMicrosoft_Excel_2013_logo.svg%2F1200px-Microsoft_Excel_2013_logo.svg.png&f=1&nofb=1)</img>
 
 ## Visualization Specifics
 These are not as powerful modelers, but allow for pretty graphics and interaction.

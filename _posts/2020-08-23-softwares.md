@@ -34,10 +34,18 @@ Like all high level languages, python suffers from speed issues.  One thing you 
 > Python was my first love- Marethyu
 
 
-##The Pay to Play bois
+## The Pay to Play bois
 Hate these.  But, many have cool logos. 
 
-##Visualization Specifics
+# Microsoft Excel (6/10)
+
+This is a tough one.  Excel obviously has its limitations: its slow, its clunky, it crashes a lot, its hard to reproduce, and it doesn't have great looking graphics.  But, and this is a big but, it is the best way to get going in statistics.  For many, excel is the first software they use in college.  It is a cool way to visualize your data, it allows the user to easily edit and filter data, and allows for immediate visualization.  If you really push the macros in excel, you can actually program some impressive things.  The plugins allow you to do stuff like regression or finite difference methods, which are big tools used a lot.  
+
+But, as a statistician, the most important thing is reproducibility.  To use some excel plugins, you need to watch a video and mimic what they did.  With a scripting language like python, you just copy written code and run. The code is written in English and is often commented so you know what is going on.  If you edit data in R or python, you leave a paper trail of exactly what you did, whereas in Excel there is no evidence.  Given the importance of data ethics, this is very dangerous.  
+
+Also, excel costs money.  You pay for it alongside word and powerpoint with the microsoft package, so that breaks the cardinal rule of the VA: "If it's free, it's for me".
+
+## Visualization Specifics
 These are not as powerful modelers, but allow for pretty graphics and interaction.
 
 # Flourish (10/10)
@@ -45,7 +53,7 @@ These are not as powerful modelers, but allow for pretty graphics and interactio
 Flourish is the best visualizing software when all things are considered.  It is free, it is very easy to use, and it is a pioneer for different types of visualizations.  Here is an example of the bar-chart race, where they  <a href="https://public.flourish.studio/visualisation/1005923/" class="readmore">flourish</a>.  Flourish also gives users free server storage, so you can make a cool visual and send it to people via a link, or put it on a site, and the recipient need not be well versed in coding or have access to your data to see the visual.  Cannot stress enough how cool that is.
 
 # Qlik (7/10)
-The only experience we have with Qlik was a free trial.  It was pretty powerful, and relatively easy to get cool dashboards up and running with good looking visualizations.  However, we found the online help community to be lacking, meaning once you run into a problem, you're toast in the water.  However, Qlik is typically used at companies (certainly not for research or academics), so presumably you'd have colleagues to help you.   
+The only experience we have with <a href="https://www.qlik.com/us">Qlik</a> was a free trial.  It was pretty powerful, and relatively easy to get cool dashboards up and running with good looking visualizations.  However, we found the online help community to be lacking, meaning once you run into a problem, you're toast in the water.  However, Qlik is typically used at companies (certainly not for research or academics), so presumably you'd have colleagues to help you.   
 
 Qlik is definetly limited in terms of modeling.  For one, in order to be able to study big datasets, you'd have to pay big bucks.  Otherwise, you're basically cleaning and visualizing small datasets, which is fine in the exploratory stage, but limits you in more intense endeavours.  In that case, we'd recommend going to R or python. When R and python's computational limits hinder you, then C++/Fortran (or maybe one day Rust) is the go to (this applies if you are implementing a machine learning algorithm from scratch, for example).  
 

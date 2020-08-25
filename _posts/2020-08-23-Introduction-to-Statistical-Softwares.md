@@ -9,7 +9,7 @@ cover: assets/wowpic.jpg
 ---
 ## Examining Different Statistical Softwares
 
-Hello, friends.  Today, we will take a deep dive into the world of statistical softwares.  Software has become a necessity for statisticians, and 
+Hello, friends.  Today, we will take a deep dive into the world of statistical softwares.  Software has become a necessity for statisticians, and will only become more important in the coming years.  This is reading just like any medium post about data science...we need to pick up our game...and soon.
 
 ## The Free and Open Source
 # 1- R (9.5/10)

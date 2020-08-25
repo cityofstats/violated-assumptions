@@ -39,3 +39,17 @@ Hate these.  But, many have cool logos.
 
 ##Visualization Specifics
 These are not as powerful modelers, but allow for pretty graphics and interaction.
+
+# Flourish (10/10)
+
+Flourish is the best visualizing software when all things are considered.  It is free, it is very easy to use, and it is a pioneer for different types of visualizations.  Here is an example of the bar-chart race, where they  <a href="https://public.flourish.studio/visualisation/1005923/" class="readmore">flourish</a>.  Flourish also gives users free server storage, so you can make a cool visual and send it to people via a link, or put it on a site, and the recipient need not be well versed in coding or have access to your data to see the visual.  Cannot stress enough how cool that is.
+
+# Qlik (7/10)
+The only experience we have with Qlik was a free trial.  It was pretty powerful, and relatively easy to get cool dashboards up and running with good looking visualizations.  However, we found the online help community to be lacking, meaning once you run into a problem, you're toast in the water.  However, Qlik is typically used at companies (certainly not for research or academics), so presumably you'd have colleagues to help you.   
+
+Qlik is definetly limited in terms of modeling.  For one, in order to be able to study big datasets, you'd have to pay big bucks.  Otherwise, you're basically cleaning and visualizing small datasets, which is fine in the exploratory stage, but limits you in more intense endeavours.  In that case, we'd recommend going to R or python. When R and python's computational limits hinder you, then C++/Fortran (or maybe one day Rust) is the go to (this applies if you are implementing a machine learning algorithm from scratch, for example).  
+
+
+# Tableau (NA)
+Personally, have never used tableau, but check out their site <a href="https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Retargeting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Bing&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=WEB-Brand-Core-E&adused=&matchtype=e&placement=&msclkid=02f6331261bc1e46a5c16c5729ea611b&gclid=CLbX1tnutusCFY_FfgodlSkGyQ&gclsrc=ds">tableau</a>
+

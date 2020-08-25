@@ -32,3 +32,10 @@ Like all high level languages, python suffers from speed issues.  One thing you 
   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.vizteams.com%2Fwp-content%2Fuploads%2F2013%2F08%2Fpython-logo-master.png&f=1&nofb=1" title="Python Logo">
 </a>
 > Python was my first love- Marethyu
+
+
+##The Pay to Play bois
+Hate these.  But, many have cool logos. 
+
+##Visualization Specifics
+These are not as powerful modelers, but allow for pretty graphics and interaction.

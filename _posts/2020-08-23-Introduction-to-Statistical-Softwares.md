@@ -46,7 +46,7 @@ Learning SAS this semester.
 The weakest of the three.
 
 # JMP
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F23%2F%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png%2F250px-%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png&f=1&nofb=1">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F23%2F%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png%2F250px-%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png&f=1&nofb=1" height=300 width=400>
 Basically excel on steroids.  Used it once, and it was not intuitive at all.
 
 

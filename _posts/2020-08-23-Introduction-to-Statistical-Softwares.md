@@ -12,7 +12,7 @@ cover: null
 Hello, friends.  Today, we will take a deep dive into the world of statistical softwares.  Software has become a necessity for statisticians, and will only become more important in the coming years.  This is reading just like any medium post about data science...we need to pick up our game...and soon.
 
 ## The Free and Open Source
-# 1- R (9.5/10)
+#  R (9.5/10)
 R is the defacto free and open source statistical computing software.  While its reign is being seriously challenged by python, R (in our opinion) retains an advantage for a number of reasons.  For one, R is just a little easier to use and get started with.  All the statistical functions and plotting capabilities are available in base R, to get the equivalent data frame structures and plots in python, you need to be familiar with pandas and matplotlib.  If you do want to get fancy with R, there are also sublanguages you can verse yourself in, such as the tidyverse by Hadley Wickham, which is essentially another language written within R based on piping operators and fancy plots.  Alternatively, data.table package is faster than the tidyverse with almost all the capabilities, even if it is not quite as intuitive to use.  
 
 The main advantage for R (again in our opinion) is just how incredible R-shiny is.  Yes, DASH and plotly in python are great (DASH and plotly can also be used for R).  But, R-Shiny is much older and has a much bigger online base.  With enough time and effort, you can make an R-shiny app that rivals that of Tableau or QLik, which are both quite expensive.  Additionally, R-Shiny gives users 5 free sites where they can store their apps.

@@ -28,12 +28,24 @@ Python is now generally regarded as one of the two must-know languages for the m
 
 Like all high level languages, python suffers from speed issues.  One thing you sacrifice with readability is how long everything takes.  For example, C can be up to 100 times faster than python, and for some complicated simulations (like weather modeling), running code in python will crash your server.  But, it would be much easier to write and easier to explain to new hires/students who want to tamper/edit/expand on the code.  
 
+Pandas allows for users to replicate much of R...
+
 <a href="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.vizteams.com%2Fwp-content%2Fuploads%2F2013%2F08%2Fpython-logo-master.png&f=1&nofb=1" data-lightbox="falcon9-medium" data-title="Python Logo">
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.vizteams.com%2Fwp-content%2Fuploads%2F2013%2F08%2Fpython-logo-master.png&f=1&nofb=1" title="Python Logo">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.fUO28EIHi1bkZPhjZ451tQHaEo%26pid%3DApi&f=1" title="Python Logo">
 </a>
 > Python was my first love- Marethyu
 
+## Subgroup: Tools for Machine Learning
+These exist within python.  
 
+# Scikit Learn
+Least powerful but best for beginners and simpler models.
+# Keras (R/Python)
+Cool.
+# Pytorch
+Most thorough.
+# Tensorflow
+Cool because you can plug and chug to an extent.
 ## The Pay to Play bois
 Hate these. Can be extremely expensive to get to the point where they are computationally feasible and where community support becomes available.  Limits to people at universities or giant companies. But, many have cool logos. 
 # STATA
@@ -51,6 +63,11 @@ The weakest of the three.
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F23%2F%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png%2F250px-%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png&f=1&nofb=1" height=300 width=400>
 Basically excel on steroids.  Used it once, and it was not intuitive at all.
 
+# MINITAB 
+
+# MAPLE
+
+# MATLAB
 
 # Microsoft Excel (6/10)
 

@@ -41,6 +41,7 @@ Generally considered the best of this bunch.
 
 # SAS
 Learning SAS this semester.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F97%2F%25E0%25A6%25B8%25E0%25A7%258D%25E0%25A6%25AF%25E0%25A6%25BE%25E0%25A6%25B8_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png&f=1&nofb=1" height=300 width=400>
 
 # SPSS 
 The weakest of the three.

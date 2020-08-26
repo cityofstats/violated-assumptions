@@ -35,7 +35,20 @@ Like all high level languages, python suffers from speed issues.  One thing you 
 
 
 ## The Pay to Play bois
-Hate these.  But, many have cool logos. 
+Hate these. Can be extremely expensive to get to the point where they are computationally feasible and where community support becomes available.  Limits to people at universities or giant companies. But, many have cool logos. 
+# STATA
+Generally considered the best of this bunch.
+
+# SAS
+Learning SAS this semester.
+
+# SPSS 
+The weakest of the three.
+
+# JMP
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F23%2F%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png%2F250px-%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png&f=1&nofb=1">
+Basically excel on steroids.  Used it once, and it was not intuitive at all.
+
 
 # Microsoft Excel (6/10)
 

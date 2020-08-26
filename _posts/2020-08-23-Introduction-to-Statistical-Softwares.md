@@ -38,7 +38,7 @@ Like all high level languages, python suffers from speed issues.  One thing you 
 Hate these. Can be extremely expensive to get to the point where they are computationally feasible and where community support becomes available.  Limits to people at universities or giant companies. But, many have cool logos. 
 # STATA
 Generally considered the best of this bunch.
-
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DyOJhcYD-v_qe1Qx4jOBAwHaD4%26pid%3DApi&f=1" height=360 width=420>
 # SAS
 Learning SAS this semester.
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F97%2F%25E0%25A6%25B8%25E0%25A7%258D%25E0%25A6%25AF%25E0%25A6%25BE%25E0%25A6%25B8_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png&f=1&nofb=1" height=300 width=400>
@@ -46,6 +46,7 @@ Learning SAS this semester.
 # SPSS 
 The weakest of the three.
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eyiLGYfZCfqeI-7NzUAosAAAAA%26pid%3DApi&f=1" height=360 width=360>
 # JMP
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F23%2F%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png%2F250px-%25E0%25A6%259C%25E0%25A6%25BE%25E0%25A6%25AE%25E0%25A7%258D%25E0%25A6%25AA_%25E0%25A6%25B2%25E0%25A7%258B%25E0%25A6%2597%25E0%25A7%258B.png&f=1&nofb=1" height=300 width=400>
 Basically excel on steroids.  Used it once, and it was not intuitive at all.
